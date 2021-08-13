@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Utkarsh Bansal (@utkarshbansal8989).
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning deep learning, web development , tableau. 
-- 🥅 2021 Goals: Contribute more to Open Source projects and achieve 5* on Codechef.
+- 🥅 2021 Goals: Contribute to Open Source projects and achieve 5* on Codechef.
 
 
 ### Connect with me:
